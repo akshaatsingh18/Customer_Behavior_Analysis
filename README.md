@@ -89,9 +89,10 @@ It simulates a real-world business case where data is:
 
 ## 📊 Dashboard Preview
 
-<img width="800" alt="dashboard-preview" src="https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard+Preview">
+<img width="1920" height="1080" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/4dcf3e5f-4027-4f07-a5b3-fe9188c705f0" />
 
-> Replace this image with a screenshot of your actual Power BI dashboard.
+
+
 
 Dashboard Includes:
 
@@ -136,7 +137,7 @@ Data-Analytics-Project/
 ### 🔹 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/ akshaatsingh18/Customer_Behavior_Analysis.git
 ```
 
 ### 🔹 2. Install Dependencies
